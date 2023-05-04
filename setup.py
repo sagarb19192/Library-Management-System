@@ -9,8 +9,8 @@ from library_management import __version__ as version
 setup(
 	name="library_management",
 	version=version,
-	description="Library Management System",
-	author="sagar biradar",
+	description="library management system",
+	author="sagar",
 	author_email="sagar@helloapps.io",
 	packages=find_packages(),
 	zip_safe=False,

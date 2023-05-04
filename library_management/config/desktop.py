@@ -3,8 +3,8 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "Library Management",
+			"module_name": "library management",
 			"type": "module",
-			"label": _("Library Management")
+			"label": _("library management")
 		}
 	]

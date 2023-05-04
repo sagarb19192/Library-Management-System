@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "library_management"
-app_title = "Library Management"
-app_publisher = "sagar biradar"
-app_description = "Library Management System"
+app_title = "library management"
+app_publisher = "sagar"
+app_description = "library management system"
 app_email = "sagar@helloapps.io"
 app_license = "MIT"
 
